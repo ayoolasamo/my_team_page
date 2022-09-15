@@ -1,38 +1,74 @@
-.App {
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  
+}
+
+.app{
+padding: 5% 5% 0% 7%;
+width:99%;
+max-width: 1280px;
+margin: 0 auto;
+font-family: serif;
+width: 97%;
+
+}
+
+.heading{
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.summary{
+  font-weight: 500;
+  font-family:poppins;
+  font-size: 1rem;
+}
+.summaryheading{
+  font-weight: 900;
+  font-size: large;
+  font-family:poppins;
+}
+.row.mainpage{
+  margin-top: 6%;
+}
+
+.profile:nth-child(3n+2){
+  margin-top: 8%;
+  margin-bottom: 3%;
+}
+
+.footer{
+  width: 100%;
   text-align: center;
+  color: #BDBDBD;
+  font-size: 14px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  margin-top: 7%;
+  line-height: 100px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+@media only screen and (max-width: 968px){
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .app{
+    padding: 5%;
   }
+ 
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media only screen and (max-width: 766px){
+  .profile:nth-child(3n+2){
+    margin-top: 0%;
+    margin-bottom: 0%;
   }
-  to {
-    transform: rotate(360deg);
+  .profile:nth-child(even){
+    margin-top: 8% ;
+    margin-bottom: 3%;
   }
+  .heading{
+    margin-top: 10% !important;
+    margin-bottom: 8%;
+  }
+ 
 }
