@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/ayoolasamo/not_found/blob/master/Capture.PNG)
+![screenshot](https://github.com/ayoolasamo/my_team_page/blob/master/Capture.PNG)
 
 The demo of this project can be seen on Netlify.It was a delightful experience creating this page I was able to improve on creating a reponsive webpage and also learnt how to target specific child components for styling in CSS.
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
