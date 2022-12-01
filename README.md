@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://6290e96578baf500584ef76d--deviochallengenotfoundsamo.netlify.app/">
+    <a href="https://teampage1.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/nMuraRYrvl7ZAf4V8Fgv">
+    <a href="https://devchallenges.io/solutions/b526DQdahhe7gFH1WITW">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>

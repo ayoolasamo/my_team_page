@@ -3,7 +3,7 @@ export const profileinformation =[
         "picture":"images/photo1.png",
         "name":"Bill Mahoney",
         "role":"Product owner"
-    },
+    },  
     {
         "picture":"images/photo2.png",
         "name":"Saba Cabrera",
